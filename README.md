@@ -1,7 +1,7 @@
 ### OLÁ! ME CHAMO João Vítor  👨🏾‍💻
 
 - 🔭 Iniciando na aréa de desenvolvimento de sistemas
-- 👨🏽‍💻 Estudando Portugol e linguagem C
+- 👨🏽‍💻 Estudando Portugol  e linguagem C
 
  <img halign="center" alt="Filipe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <div>
